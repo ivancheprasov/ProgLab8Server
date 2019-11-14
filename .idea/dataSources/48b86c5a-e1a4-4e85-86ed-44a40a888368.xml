@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="postgres@localhost">
+  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.14">
+    <root id="1">
+      <ServerVersion>9.3.3</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="postgres">
+      <ObjectId>12029</ObjectId>
+      <Comment>default administrative connection database</Comment>
+      <StateNumber>675</StateNumber>
+      <Owner>postgres</Owner>
+      <IntrospectionStateNumber>677</IntrospectionStateNumber>
+      <Current>1</Current>
+      <Relations>sequence|table|16393|16395|1
+</Relations>
+    </database>
+    <role id="3" parent="1" name="postgres">
+      <ObjectId>10</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+  </database-model>
+</dataSource>
