@@ -6,9 +6,6 @@
       <element id="extracted-dir" path="$USER_HOME$/Desktop/javax.mail-1.6.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Desktop/postgresql-42.2.5.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Desktop/javax.activation-1.1.0.v201105071233.jar" path-in-jar="/" />
-      <element id="library" level="project" name="javax.activation-1.1.0.v201105071233" />
-      <element id="library" level="project" name="javax.mail-1.6.2" />
-      <element id="library" level="project" name="postgresql-42.2.5" />
     </root>
   </artifact>
 </component>

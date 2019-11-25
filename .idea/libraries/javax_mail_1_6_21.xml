@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="postgresql-42.2.5">
+  <library name="javax.mail-1.6.21">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/postgresql-42.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/javax.mail-1.6.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
