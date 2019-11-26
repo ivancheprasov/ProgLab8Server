@@ -11,8 +11,8 @@ class JavaMail {
     }
     void registration(String email,String login) {
         String subject = "Confirm registration";
-        String smtpHost = "mail.11cows.com";
-        String from = "ivan@11cows.org";
+        String smtpHost = "mail.niickel.us";
+        String from = "ivan@niickel.us";
         String smtpPort = "25";
         try {
             sendSimpleMessage(login, password, from, email, subject, smtpPort, smtpHost);
